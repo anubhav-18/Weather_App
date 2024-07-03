@@ -27,7 +27,7 @@ Follow these steps to install and run the weather app:
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/your-username/weather-app.git](https://github.com/anubhav-18/Weather_App)
+   git clone https://github.com/anubhav-18/Weather_App
    cd weather-app
 
 2. **Install dependencies**
