@@ -17,7 +17,7 @@ migrate_working_dir/
 .idea/
 
 # API keys
-lib/constants.dart
+lib/apikey.dart
 *.env  
 *.apiKey
 apiKey.txt

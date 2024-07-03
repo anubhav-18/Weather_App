@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:intl/intl.dart';
-import 'package:weather_app/constants.dart';
+import 'package:weather_app/apikey.dart';
 import 'package:weather_app/src/models/daily_forecast_model.dart';
 import 'package:weather_app/src/models/weather_model.dart';
 import 'package:weather_app/src/reusable_widget/custom_snackbar.dart';
