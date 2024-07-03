@@ -2,7 +2,7 @@
 
 A simple and elegant weather application built using Flutter. This app provides real-time weather updates, 5-day forecasts, air pollution data, and sunrise/sunset information based on the user's location or a selected city.
 
-You can download the APK from Repository itself.
+You can download the APK from Weather_App/build/app/outputs/flutter-apk from this directory.
 
 ## Features
 
