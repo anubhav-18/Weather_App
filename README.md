@@ -38,7 +38,7 @@ Follow these steps to install and run the weather app:
 3. **Clone the repository**
    
    - Sign up for an API key from a weather data provider (e.g., OpenWeatherMap).
-   - Add the API key to your project by creating a constants.dart file in the lib directory and define your key.
+   - Add the API key to your project by creating a apikey.dart file in the lib directory and define your key.
    
 4. **Clone the repository**
       
