@@ -11,7 +11,13 @@ You can download the APK from Weather_App/build/app/outputs/flutter-apk from thi
 - **Air Pollution Data**: Check the air quality index and pollution levels.
 - **Sunrise and Sunset Times**: Know the exact times for sunrise and sunset.
 - **City Search**: Search for weather information by city name.
-- **Geolocation**: Automatically fetch weather data based on your current location.
+- **Geolocation**: Automatically fetch weather data based on your location.
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/3.png" alt="App Screenshot" width="200" />
+  <img src="assets/screenshots/2.png" alt="App Screenshot" width="200" />
+  <img src="assets/screenshots/1.png" alt="App Screenshot" width="200" />
+</div>
 
 ## Installation
 
